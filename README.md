@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <td><img src="https://gh-stats-gen.vercel.app/api?username=Chaetard&theme=highcontrast&show_icons=true&hide_border=true" alt="Chaetard's Stats" height="200"></td>
-    <td><img src="https://gh-stats-gen.vercel.app/api/top-langs/?username=Chaetard&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" alt="Chaetard's Top Languages" height="200"></td>
+    <td>![Chaetard's Stats](https://github-readme-stats.vercel.app/api?username=Chaetard&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)</td>
+    <td>![Chaetard's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaetard&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)</td>
   </tr>
 </table>
 
