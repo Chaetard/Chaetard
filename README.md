@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm a human, not an IAMan Coding with GPT, I use GPT but I use my brain more
+### I'm a human, not an IAMan Coding with GPT, sometimes..
 
 
 
