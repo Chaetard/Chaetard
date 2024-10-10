@@ -36,6 +36,6 @@ I'm a passionate **Back-End Developer** with experience in **SpringBoot**, **Spr
 ### 🚀 Let's connect:
 
 <p align="left">
-  <a href="**https://www.linkedin.com/in/your-profile**" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/n0kemm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </p>
