@@ -30,7 +30,7 @@ I'm a passionate **Back-End Developer** with experience in **SpringBoot**, **Spr
 <p align="center">
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaetard&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
