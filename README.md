@@ -33,6 +33,9 @@ I'm a passionate **Back-End Developer** with experience in **SpringBoot**, **Spr
 
 ---
 
+### Wakatime
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaetard)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🚀 Let's connect:
 
 <p align="left">
