@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="left">Hi there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=440&lines=I'm+a+human%2C+not+an+AI.;Coding+with+love" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=440&lines=I'm+a+developer+<+ ;Coding+with+love;and+tea+/+>" alt="Typing SVG" />
 </p>
 
 ### About Me
