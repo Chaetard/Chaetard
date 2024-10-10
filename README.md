@@ -29,12 +29,12 @@ I'm a passionate **Back-End Developer** with experience in **SpringBoot**, **Spr
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaetard&exclude_repo=github-readme-stats,Chaetard.github.io&layout=compact&theme=radical" alt="Top Languages" />
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
 
-### Wakatime
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chaetard)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Let's connect:
 
